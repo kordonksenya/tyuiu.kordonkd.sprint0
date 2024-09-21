@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task0", "task0", "{451C8540-CEEA-4D4A-B754-AAA3CCFE511A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task0", "task0", "{0E153D29-25B7-4BED-BA14-44DAB3A6F5C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KordonKD.Sprint0.Task0.V0", "Tyuiu.KordonKD.Sprint0.Task0.V0\Tyuiu.KordonKD.Sprint0.Task0.V0.csproj", "{0854A1AF-58C4-4C15-92EC-FAC5C0F378BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.kordonkd.sprint0.task0.v0", "tyuiu.kordonkd.sprint0.task0.v0\tyuiu.kordonkd.sprint0.task0.v0.csproj", "{C1BA9774-497D-4271-9704-BC18EE10DCA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,18 +13,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0854A1AF-58C4-4C15-92EC-FAC5C0F378BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0854A1AF-58C4-4C15-92EC-FAC5C0F378BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0854A1AF-58C4-4C15-92EC-FAC5C0F378BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0854A1AF-58C4-4C15-92EC-FAC5C0F378BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1BA9774-497D-4271-9704-BC18EE10DCA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1BA9774-497D-4271-9704-BC18EE10DCA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1BA9774-497D-4271-9704-BC18EE10DCA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1BA9774-497D-4271-9704-BC18EE10DCA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{0854A1AF-58C4-4C15-92EC-FAC5C0F378BE} = {451C8540-CEEA-4D4A-B754-AAA3CCFE511A}
+		{C1BA9774-497D-4271-9704-BC18EE10DCA4} = {0E153D29-25B7-4BED-BA14-44DAB3A6F5C4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3A69F7F5-F5F5-4C9C-A628-93769F3B44CF}
+		SolutionGuid = {BA3A1F8B-2740-408E-9FFD-D05E9415B56F}
 	EndGlobalSection
 EndGlobal

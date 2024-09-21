@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0854A1AF-58C4-4C15-92EC-FAC5C0F378BE}</ProjectGuid>
+    <ProjectGuid>{C1BA9774-497D-4271-9704-BC18EE10DCA4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tyuiu.KordonKD.Sprint0.Task0.V0</RootNamespace>
-    <AssemblyName>Tyuiu.KordonKD.Sprint0.Task0.V0</AssemblyName>
+    <RootNamespace>tyuiu.kordonkd.sprint0.task0.v0</RootNamespace>
+    <AssemblyName>tyuiu.kordonkd.sprint0.task0.v0</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

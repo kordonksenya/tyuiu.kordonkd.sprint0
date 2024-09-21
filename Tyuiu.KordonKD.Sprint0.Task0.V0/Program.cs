@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tyuiu.KordonKD.Sprint0.Task0.V0
+namespace tyuiu.kordonkd.sprint0.task0.v0
 {
     internal class Program
     {
