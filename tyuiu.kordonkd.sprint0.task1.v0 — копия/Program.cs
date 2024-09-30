@@ -17,6 +17,6 @@ namespace tyuiu.kordonkd.sprint0.task1.v0
             Console.ReadKey();
 
         }
-         
+        
     }
 }
