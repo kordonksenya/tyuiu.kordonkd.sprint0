@@ -8,11 +8,9 @@ namespace tyuiu.kordonkd.sprint0.task2.v0.lib
 {
     public class dataservice
     {
-
-
-        public static string GetMessage(string name); 
+        public static string GetMessage(string name)
         {
-           return $"Привет,... (name)";
+            return $"Привет, {name}";
         }
     }
 }
