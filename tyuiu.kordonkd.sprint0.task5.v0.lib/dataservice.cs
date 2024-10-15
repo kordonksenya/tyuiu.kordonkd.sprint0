@@ -34,6 +34,14 @@ namespace tyuiu.kordonkd.sprint0.task5.v0.lib
         {
             if (b== 0)
             {
+                Console.WriteLine("Переменная b = {0} на ноль делить нельзя", b);
+                return -1;
+
+
+            }
+            else
+            {
+                return a/b;
 
             }
         }

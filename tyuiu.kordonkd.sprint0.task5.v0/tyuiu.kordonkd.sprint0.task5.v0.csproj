@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\tyuiu.kordonkd.sprint0.task5.v0.lib\tyuiu.kordonkd.sprint0.task5.v0.lib.csproj">
+      <Project>{b9322ac0-1015-4368-8a88-3fab9ef30bdc}</Project>
+      <Name>tyuiu.kordonkd.sprint0.task5.v0.lib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

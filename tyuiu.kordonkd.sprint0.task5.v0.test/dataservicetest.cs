@@ -1,6 +1,9 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+
+//Подключение библиотеки
 using tyuiu.kordonkd.sprint0.task5.v0.lib;
+
 namespace tyuiu.kordonkd.sprint0.task5.v0.test
 {
     [TestClass]
